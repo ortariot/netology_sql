@@ -10,7 +10,3 @@
 10. ORDER BY
 11. LIMIT/OFFSET
 
-
-SELECT * FROM <table>
-WHERE <условие1>  AND <условие2>  ...
-ORDER BY
